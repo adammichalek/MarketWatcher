@@ -492,3 +492,4 @@ API/appsettings.json
 /MarketWatcherAPI/bin/Debug/net8.0/MarketWatcherAPI.dll
 /MarketWatcherAPI/bin/Debug/net8.0/MarketWatcherAPI.exe
 /MarketWatcherAPI/bin/Debug/net8.0/MarketWatcherAPI.pdb
+/MarketWatcherDB/obj/Debug/MarketWatcherDB.sqlproj.AssemblyReference.cache
