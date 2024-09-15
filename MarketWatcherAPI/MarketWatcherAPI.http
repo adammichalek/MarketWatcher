@@ -1,0 +1,6 @@
+@MarketWatcherAPI_HostAddress = http://localhost:5044
+
+GET {{MarketWatcherAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[Stock]
+(
+	[Id] INT NOT NULL PRIMARY KEY IDENTITY (1, 1),
+	[Tick] NVARCHAR(16) NOT NULL,
+	[FullName] NVARCHAR (128) NOT NULL,
+)
